@@ -1,0 +1,41 @@
+C:\Users\TheDr\Desktop\Ejercicio 4 del tp\bin\Debug\netcoreapp3.1\Ejercicio 4 del tp.exe
+C:\Users\TheDr\Desktop\Ejercicio 4 del tp\bin\Debug\netcoreapp3.1\Ejercicio 4 del tp.deps.json
+C:\Users\TheDr\Desktop\Ejercicio 4 del tp\bin\Debug\netcoreapp3.1\Ejercicio 4 del tp.runtimeconfig.json
+C:\Users\TheDr\Desktop\Ejercicio 4 del tp\bin\Debug\netcoreapp3.1\Ejercicio 4 del tp.runtimeconfig.dev.json
+C:\Users\TheDr\Desktop\Ejercicio 4 del tp\bin\Debug\netcoreapp3.1\Ejercicio 4 del tp.dll
+C:\Users\TheDr\Desktop\Ejercicio 4 del tp\bin\Debug\netcoreapp3.1\Ejercicio 4 del tp.pdb
+C:\Users\TheDr\Desktop\Ejercicio 4 del tp\obj\Debug\netcoreapp3.1\Ejercicio 4 del tp.csprojAssemblyReference.cache
+C:\Users\TheDr\Desktop\Ejercicio 4 del tp\obj\Debug\netcoreapp3.1\Ejercicio 4 del tp.AssemblyInfoInputs.cache
+C:\Users\TheDr\Desktop\Ejercicio 4 del tp\obj\Debug\netcoreapp3.1\Ejercicio 4 del tp.AssemblyInfo.cs
+C:\Users\TheDr\Desktop\Ejercicio 4 del tp\obj\Debug\netcoreapp3.1\Ejercicio 4 del tp.csproj.CoreCompileInputs.cache
+C:\Users\TheDr\Desktop\Ejercicio 4 del tp\obj\Debug\netcoreapp3.1\Ejercicio 4 del tp.dll
+C:\Users\TheDr\Desktop\Ejercicio 4 del tp\obj\Debug\netcoreapp3.1\Ejercicio 4 del tp.pdb
+C:\Users\TheDr\Desktop\Ejercicio 4 del tp\obj\Debug\netcoreapp3.1\Ejercicio 4 del tp.genruntimeconfig.cache
+C:\Users\TheDr\Desktop\Tp final para examen\obj\Debug\netcoreapp3.1\Ejercicio 4 del tp.csproj.AssemblyReference.cache
+C:\Users\TheDr\Desktop\Tp final para examen\obj\Debug\netcoreapp3.1\Ejercicio 4 del tp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheDr\Desktop\Tp final para examen\obj\Debug\netcoreapp3.1\Ejercicio 4 del tp.AssemblyInfoInputs.cache
+C:\Users\TheDr\Desktop\Tp final para examen\obj\Debug\netcoreapp3.1\Ejercicio 4 del tp.AssemblyInfo.cs
+C:\Users\TheDr\Desktop\Tp final para examen\obj\Debug\netcoreapp3.1\Ejercicio 4 del tp.csproj.CoreCompileInputs.cache
+C:\Users\TheDr\Desktop\Tp final para examen\obj\Debug\netcoreapp3.1\Ejercicio 4 del tp.dll
+C:\Users\TheDr\Desktop\Tp final para examen\obj\Debug\netcoreapp3.1\Ejercicio 4 del tp.pdb
+C:\Users\TheDr\Desktop\Tp final para examen\bin\Debug\netcoreapp3.1\Ejercicio 4 del tp.exe
+C:\Users\TheDr\Desktop\Tp final para examen\bin\Debug\netcoreapp3.1\Ejercicio 4 del tp.deps.json
+C:\Users\TheDr\Desktop\Tp final para examen\bin\Debug\netcoreapp3.1\Ejercicio 4 del tp.runtimeconfig.json
+C:\Users\TheDr\Desktop\Tp final para examen\bin\Debug\netcoreapp3.1\Ejercicio 4 del tp.runtimeconfig.dev.json
+C:\Users\TheDr\Desktop\Tp final para examen\bin\Debug\netcoreapp3.1\Ejercicio 4 del tp.dll
+C:\Users\TheDr\Desktop\Tp final para examen\bin\Debug\netcoreapp3.1\Ejercicio 4 del tp.pdb
+C:\Users\TheDr\Desktop\Tp final para examen\obj\Debug\netcoreapp3.1\Ejercicio 4 del tp.genruntimeconfig.cache
+C:\Users\TheDr\Desktop\Final\obj\Debug\netcoreapp3.1\Ejercicio 4 del tp.csproj.AssemblyReference.cache
+C:\Users\TheDr\Desktop\Final\obj\Debug\netcoreapp3.1\Ejercicio 4 del tp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheDr\Desktop\Final\obj\Debug\netcoreapp3.1\Ejercicio 4 del tp.AssemblyInfoInputs.cache
+C:\Users\TheDr\Desktop\Final\obj\Debug\netcoreapp3.1\Ejercicio 4 del tp.AssemblyInfo.cs
+C:\Users\TheDr\Desktop\Final\obj\Debug\netcoreapp3.1\Ejercicio 4 del tp.csproj.CoreCompileInputs.cache
+C:\Users\TheDr\Desktop\Final\obj\Debug\netcoreapp3.1\Ejercicio 4 del tp.dll
+C:\Users\TheDr\Desktop\Final\obj\Debug\netcoreapp3.1\Ejercicio 4 del tp.pdb
+C:\Users\TheDr\Desktop\Final\bin\Debug\netcoreapp3.1\Ejercicio 4 del tp.exe
+C:\Users\TheDr\Desktop\Final\bin\Debug\netcoreapp3.1\Ejercicio 4 del tp.deps.json
+C:\Users\TheDr\Desktop\Final\bin\Debug\netcoreapp3.1\Ejercicio 4 del tp.runtimeconfig.json
+C:\Users\TheDr\Desktop\Final\bin\Debug\netcoreapp3.1\Ejercicio 4 del tp.runtimeconfig.dev.json
+C:\Users\TheDr\Desktop\Final\bin\Debug\netcoreapp3.1\Ejercicio 4 del tp.dll
+C:\Users\TheDr\Desktop\Final\bin\Debug\netcoreapp3.1\Ejercicio 4 del tp.pdb
+C:\Users\TheDr\Desktop\Final\obj\Debug\netcoreapp3.1\Ejercicio 4 del tp.genruntimeconfig.cache
